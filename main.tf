@@ -13,4 +13,4 @@ variable region {}
 
 variable ami {}
 
-Variable az {}
+variable az {}
